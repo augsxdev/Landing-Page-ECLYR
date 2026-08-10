@@ -1,72 +1,105 @@
-# ÉCLYR — Landing Page
+<div align="center">
 
-> Marque o imaginário.
+<img src="assets/eclyr-icon.png" width="90" alt="ÉCLYR">
 
-Landing page institucional desenvolvida para a **ÉCLYR**, uma maison criativa de comunicação e posicionamento que atua na construção, evolução e expressão de marcas.
+# ÉCLYR
 
-A proposta do projeto é transformar a presença digital da ÉCLYR em uma experiência visual que une **estratégia, estética, tecnologia e narrativa**.
+### MARQUE O IMAGINÁRIO.
 
-## ✦ Sobre a ÉCLYR
+**Maison criativa de comunicação e posicionamento.**
 
-A ÉCLYR é uma maison criativa de comunicação e posicionamento.
+<br>
 
-Seu trabalho parte de uma ideia simples:
+[![Website](https://img.shields.io/badge/WEBSITE-ÉCLYR-4B233D?style=for-the-badge)](https://eclyr.netlify.app/)
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge)](https://eclyr.netlify.app/)
+[![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-> Não criar apenas conteúdo. Construir percepção.
+</div>
 
-A marca combina diferentes disciplinas para ajudar negócios a desenvolverem uma presença mais consistente, desejável e memorável.
+<br>
 
-### Frentes de atuação
+---
 
-- **Audiovisual** — imagem em movimento, direção e narrativa.
-- **Social Media** — conteúdo, calendário e linguagem de marca.
-- **Consultoria** — diagnóstico, estratégia e direcionamento.
-- **Branding & Posicionamento** — identidade, território e percepção de marca.
+## 01 — ÉCLYR
 
-## ✦ Sobre o projeto
+> **Não criamos apenas conteúdo.  
+> Construímos percepção.**
 
-A landing page foi desenvolvida para apresentar a ÉCLYR de maneira institucional e conceitual, utilizando uma experiência visual minimalista e sofisticada.
+A **ÉCLYR** é uma maison criativa de comunicação e posicionamento.
 
-O projeto foi pensado para:
+Unimos estratégia, estética, narrativa e tecnologia para transformar negócios em marcas desejáveis, profissionais e impossíveis de ignorar.
 
-- apresentar o posicionamento da ÉCLYR;
-- comunicar suas principais frentes de atuação;
-- apresentar o método de trabalho;
-- destacar projetos desenvolvidos;
-- apresentar o fundador;
-- gerar novos contatos;
-- criar uma experiência de marca coerente com sua identidade visual.
+Acreditamos que uma marca não existe apenas no que ela diz.
 
-## ✦ Tecnologias
+Ela existe no que provoca.
 
-O projeto foi desenvolvido utilizando tecnologias web fundamentais:
+No que transmite.
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts
-- SVG
-- WebP / PNG / JPG
+No que permanece.
 
-O projeto não utiliza frameworks ou bibliotecas JavaScript externas para sua estrutura principal.
+<br>
 
-## ✦ Estrutura
+---
+
+## 02 — O PROJETO
+
+Esta landing page foi criada para traduzir digitalmente a essência da ÉCLYR.
+
+Mais do que apresentar serviços, o projeto foi desenvolvido como uma **experiência de marca**.
+
+Cada elemento foi pensado para trabalhar junto:
+
+**tipografia · movimento · composição · contraste · narrativa · interação**
+
+O resultado é uma interface editorial, minimalista e responsiva que busca aproximar a experiência digital da linguagem visual da ÉCLYR.
+
+<br>
+
+---
+
+## 03 — DIREÇÃO
+
+### Clareza antes da forma.
+
+Todo o conceito visual parte de uma ideia central:
+
+> **Uma marca pode ocupar espaço.  
+> Ou ocupar memória.**
+
+Por isso, a interface trabalha com grandes áreas de respiro, tipografia expressiva, movimento e elementos gráficos sutis.
+
+A intenção não é competir pela atenção.
+
+É **conduzi-la**.
+
+<br>
+
+---
+
+## 04 — O QUE A ÉCLYR FAZ
+
+| FRENTE | DESCRIÇÃO |
+| --- | --- |
+| **Audiovisual** | Imagem em movimento, direção e narrativa para construir presença. |
+| **Social Media** | Conteúdo, calendário e linguagem para tornar a marca reconhecível. |
+| **Consultoria** | Diagnóstico e direcionamento para encontrar o que a marca precisa dizer. |
+| **Branding & Posicionamento** | Identidade, território e estratégia para marcas que querem permanecer. |
+
+<br>
+
+---
+
+## 05 — MÉTODO ÉCLYR
+
+O projeto apresenta um processo dividido em quatro momentos:
 
 ```text
-Landing-Page-ECLYR/
-│
-├── index.html
-├── style.css
-├── script.js
-├── robots.txt
-├── sitemap.xml
-│
-├── assets/
-│   ├── eclyr-icon.png
-│   ├── camera.png
-│   ├── marycota.png
-│   ├── tuff.png
-│   ├── antonio.png
-│   └── ...
-│
-└── README.md
+01 — IMERSÃO
+     ↓
+02 — DIREÇÃO
+     ↓
+03 — EXPRESSÃO
+     ↓
+04 — EVOLUÇÃO
