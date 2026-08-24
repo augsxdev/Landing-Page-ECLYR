@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Defina o domínio de produção em todos os campos <loc> antes da publicação. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://seu-dominio.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://seu-dominio.com/audiovisual.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seu-dominio.com/social-media.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seu-dominio.com/landing-pages.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seu-dominio.com/branding-posicionamento.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://seu-dominio.com/antonio-augusto.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
