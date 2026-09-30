@@ -1,9 +1,0 @@
-{
-  "name": "ÉCLYR — Maison Criativa",
-  "short_name": "ÉCLYR",
-  "description": "Maison criativa de comunicação e posicionamento.",
-  "icons": [{ "src": "assets/eclyr-icon.png", "sizes": "512x512", "type": "image/png" }],
-  "theme_color": "#0B0B0B",
-  "background_color": "#0B0B0B",
-  "display": "standalone"
-}

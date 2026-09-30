@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Atualize a linha abaixo com o domínio final após publicar o site.
-# Sitemap: https://seu-dominio.com/sitemap.xml
+Sitemap: https://eclyr.netlify.app/sitemap.xml
