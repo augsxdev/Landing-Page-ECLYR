@@ -9,10 +9,15 @@ Site: [eclyr.netlify.app](https://eclyr.netlify.app)
 ## Estrutura
 
 - `index.html`: página inicial, metadados de busca e dados estruturados.
+- `blog/`: página do blog e artigos com SEO e dados estruturados.
 - `politica-de-privacidade/`: política de privacidade.
 - `404.html`: página para endereços não encontrados.
 - `assets/social-preview.png`: imagem compartilhada em redes sociais.
 - `robots.txt` e `sitemap.xml`: orientação para mecanismos de busca.
+
+## Publicar novos artigos
+
+Cada artigo fica em `blog/<slug>/index.html`. Para adicionar um texto, inclua um card em `blog/index.html` e a URL em `sitemap.xml`, mantendo os metadados canônicos e o schema `BlogPosting`.
 
 ## Verificação do Google
 

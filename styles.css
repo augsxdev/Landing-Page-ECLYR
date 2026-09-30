@@ -31,6 +31,51 @@
 .policy-page{background:var(--off);color:var(--black)}.policy-header{min-height:5rem;padding:0 var(--gutter);display:flex;align-items:center;justify-content:space-between;gap:2rem;background:var(--warm);color:var(--ivory)}.policy-header>a:first-child{width:9rem}.policy-header img{width:100%;height:auto}.policy-back{font-size:.66rem;font-weight:700;letter-spacing:.12em}.policy-hero{background:var(--plum);color:var(--ivory);padding:clamp(5rem,10vw,9rem) var(--gutter) 2rem}.policy-kicker{font-size:.7rem;font-weight:700;letter-spacing:.15em}.policy-hero h1{margin:2rem 0;font-size:clamp(4rem,10vw,10rem);font-weight:700;line-height:.83;letter-spacing:-.1em}.policy-hero h1 i{font-family:Georgia,serif;font-weight:400}.policy-hero>p{max-width:40rem;margin:0 0 4rem;font-size:clamp(1rem,1.3vw,1.25rem);line-height:1.65}.policy-date{display:flex;justify-content:space-between;gap:1rem;border-top:1px solid rgba(244,240,223,.35);padding-top:1rem;font-size:.64rem;font-weight:700;letter-spacing:.1em}.policy-layout{display:grid;grid-template-columns:minmax(13rem,20rem) minmax(0,1fr);gap:clamp(3rem,8vw,9rem);max-width:90rem;margin:0 auto;padding:clamp(4rem,8vw,8rem) var(--gutter) clamp(6rem,10vw,10rem)}.policy-index{position:sticky;top:7rem;align-self:start;display:flex;flex-direction:column;gap:1.2rem;font-size:.82rem}.policy-index>span{margin-bottom:.8rem;font-size:.68rem;font-weight:700;letter-spacing:.12em}.policy-index a{line-height:1.4}.policy-index a:hover{text-decoration:underline;text-underline-offset:.25rem}.policy-content{max-width:54rem}.policy-intro{margin:0 0 4rem;font-family:Georgia,serif;font-size:clamp(1.5rem,2.2vw,2.1rem);line-height:1.4}.policy-section{display:grid;grid-template-columns:2.5rem minmax(0,1fr);gap:1.5rem;padding:2.2rem 0}.policy-section>span{padding-top:.35rem;font-size:.72rem;font-weight:700;letter-spacing:.1em;color:var(--plum)}.policy-section h2{margin:0 0 1rem;font-size:clamp(1.35rem,2.4vw,2rem);font-weight:700;letter-spacing:-.045em}.policy-section p{margin:0 0 1rem;font-size:1rem;line-height:1.75}.policy-section p:last-child{margin-bottom:0}.policy-section a{color:var(--plum);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.2em;overflow-wrap:anywhere}.policy-page .footer{margin:0}
 @media(max-width:760px){.policy-header{min-height:4.5rem}.policy-header>a:first-child{width:7.5rem}.policy-back{font-size:.58rem}.policy-hero{padding-top:5rem}.policy-hero h1{font-size:clamp(3.7rem,14vw,6rem)}.policy-date{flex-direction:column;gap:.6rem;font-size:.57rem}.policy-layout{display:block;padding-top:3.5rem}.policy-index{position:static;display:grid;grid-template-columns:1fr 1fr;gap:1rem 1.4rem;margin-bottom:4rem}.policy-index>span{grid-column:1/-1}.policy-index a{font-size:.77rem}.policy-intro{margin-bottom:2rem}.policy-section{grid-template-columns:1.8rem minmax(0,1fr);gap:1rem;padding:1.5rem 0}.policy-section p{font-size:.98rem;line-height:1.7}.footer-signoff{min-height:auto}}
 
+/* Blog e marcas dos projetos */
+.project-list .project-orvalho{width:min(100%,34rem);height:auto;min-height:0;aspect-ratio:1;justify-self:center;align-self:center;background:transparent;overflow:visible}
+.project-list .project-orvalho img{display:block;width:min(72%,25rem);height:auto;max-width:100%;max-height:none;object-fit:contain;border-radius:18%;}
+.footer-links-inline{display:flex;align-items:center;gap:clamp(1rem,3vw,3rem)}
+.footer-links-inline a{font-size:.66rem;font-weight:700;letter-spacing:.11em;white-space:nowrap}
+.journal-page{min-height:100vh;background:var(--ivory);color:var(--black)}
+.journal-hero{padding:clamp(5rem,9vw,9rem) var(--gutter) clamp(3rem,6vw,6rem);background:var(--plum);color:var(--ivory)}
+.journal-kicker,.journal-date,.journal-category{font-size:.7rem;font-weight:700;letter-spacing:.14em}
+.journal-hero h1{max-width:12ch;margin:2rem 0;font-size:clamp(3.8rem,9vw,9rem);font-weight:700;line-height:.87;letter-spacing:-.095em}
+.journal-hero h1 i,.journal-article h1 i{font-family:Georgia,serif;font-weight:400}
+.journal-hero>p{max-width:35rem;margin:0;font-size:clamp(1rem,1.4vw,1.25rem);line-height:1.7}
+.journal-list{max-width:90rem;margin:0 auto;padding:clamp(3rem,7vw,7rem) var(--gutter) clamp(5rem,9vw,9rem)}
+.journal-list-heading{margin:0 0 2rem;font-size:.7rem;font-weight:700;letter-spacing:.14em}
+.journal-card{display:grid;grid-template-columns:minmax(7rem,.35fr) minmax(0,1.5fr) minmax(8rem,.5fr);align-items:start;gap:clamp(1rem,4vw,4rem);padding:2rem 0;border-top:1px solid rgba(17,17,17,.25)}
+.journal-card:last-child{border-bottom:1px solid rgba(17,17,17,.25)}
+.journal-card-meta{display:flex;flex-direction:column;gap:.6rem;font-size:.68rem;line-height:1.5;letter-spacing:.08em}
+.journal-card h2{margin:0 0 .8rem;font-size:clamp(1.7rem,3.5vw,3.4rem);line-height:.98;letter-spacing:-.065em}
+.journal-card p{max-width:42rem;margin:0;font-size:1rem;line-height:1.7}
+.journal-card-link{justify-self:end;align-self:center;font-size:.7rem;font-weight:700;letter-spacing:.1em;border-bottom:1px solid currentColor;padding-bottom:.35rem}
+.journal-card-link:hover{text-decoration:none;opacity:.6}
+.journal-article{background:var(--ivory);color:var(--black)}
+.journal-article-hero{padding:clamp(4rem,8vw,8rem) var(--gutter) 3rem;background:var(--plum);color:var(--ivory)}
+.journal-article-hero .journal-back{display:inline-block;margin-bottom:clamp(3rem,6vw,6rem);font-size:.7rem;font-weight:700;letter-spacing:.12em}
+.journal-article h1{max-width:15ch;margin:1.5rem 0;font-size:clamp(3rem,7.5vw,7.5rem);line-height:.9;letter-spacing:-.09em}
+.journal-article-dek{max-width:42rem;margin:0;font-size:clamp(1rem,1.4vw,1.25rem);line-height:1.7}
+.journal-article-meta{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;border-top:1px solid rgba(244,240,223,.35);padding-top:1rem;font-size:.68rem;font-weight:700;letter-spacing:.1em}
+.journal-body{max-width:48rem;margin:0 auto;padding:clamp(3rem,7vw,7rem) var(--gutter) clamp(5rem,9vw,9rem)}
+.journal-body p,.journal-body li{font-size:1.05rem;line-height:1.85}
+.journal-body p{margin:0 0 1.5rem}
+.journal-body h2{margin:3rem 0 1rem;font-size:clamp(1.7rem,3vw,2.5rem);line-height:1.1;letter-spacing:-.045em}
+.journal-body a{color:var(--plum);text-decoration:underline;text-underline-offset:.2em}
+.journal-next{max-width:48rem;margin:0 auto 5rem;padding:1.5rem var(--gutter);border-top:1px solid rgba(17,17,17,.25);font-size:.75rem;font-weight:700;letter-spacing:.1em}
+@media(max-width:760px){
+ .project-list .project-orvalho{width:min(100%,26rem);height:auto;aspect-ratio:1;grid-row:1}
+ .project-list .project-orvalho img{width:min(72%,19rem)}
+ .footer-signoff{gap:1.2rem}
+ .footer-links-inline{width:100%;justify-content:space-between;gap:.8rem}
+ .footer-links-inline a{font-size:.55rem}
+ .journal-card{grid-template-columns:1fr;gap:1rem;padding:1.5rem 0}
+ .journal-card-meta{flex-direction:row;gap:1rem}
+ .journal-card-link{justify-self:start;margin-top:.3rem}
+ .journal-article-meta{flex-direction:column;gap:.7rem}
+ .journal-body p,.journal-body li{font-size:1rem}
+}
+
 /* Mobile refinements: editorial rhythm, readable type, and text-style vector icons */
 .arrow-icon{display:inline-flex;width:.9em;height:.9em;flex:0 0 auto;vertical-align:-.08em;color:currentColor}
 .arrow-icon svg,.discipline-mark svg,.asterisk svg{display:block;width:100%;height:100%;overflow:visible}
