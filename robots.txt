@@ -1,4 +1,6 @@
+# ÉCLYR - Diretrizes para rastreamento publico
+# Domínio canônico: https://studioeclyr.com.br/
 User-agent: *
 Allow: /
 
-Sitemap: https://eclyr.netlify.app/sitemap.xml
+Sitemap: https://studioeclyr.com.br/sitemap.xml
